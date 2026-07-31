@@ -1,0 +1,83 @@
+{
+  "Rohit-ZTPJ-ZRF4-ZWXR": {
+    "plan": "premium",
+    "duration_h": 0,
+    "label": "Premium",
+    "used": true,
+    "used_by": 6630750941,
+    "used_at": 1784944703.6173558,
+    "created_at": 1784944689.5128725
+  },
+  "Rohit-61UW-QR2P-9E6G": {
+    "plan": "trial",
+    "duration_h": 24,
+    "label": "Trial 24h",
+    "used": true,
+    "used_by": 6630750941,
+    "used_at": 1784944774.9625182,
+    "created_at": 1784944761.4019265
+  },
+  "Rohit-Z50O-0EEP-UG8B": {
+    "plan": "premium",
+    "duration_h": 0,
+    "label": "Premium",
+    "used": false,
+    "used_by": null,
+    "used_at": null,
+    "created_at": 1784955698.9960556
+  },
+  "Rohit-URLH-3ZDY-CVR2": {
+    "plan": "premium",
+    "duration_h": 0,
+    "label": "Premium",
+    "used": false,
+    "used_by": null,
+    "used_at": null,
+    "created_at": 1784955970.9926877
+  },
+  "Rohit-NC8M-A43H-2QVV": {
+    "plan": "premium",
+    "duration_h": 0,
+    "label": "Premium",
+    "used": false,
+    "used_by": null,
+    "used_at": null,
+    "created_at": 1784955980.921266
+  },
+  "Rohit-GZLR-U6J6-9TJU": {
+    "plan": "premium",
+    "duration_h": 0,
+    "label": "Premium",
+    "used": true,
+    "used_by": 8987937105,
+    "used_at": 1784955995.865684,
+    "created_at": 1784955984.8529432
+  },
+  "Rohit-BMHT-23L6-303H": {
+    "plan": "premium",
+    "duration_h": 0,
+    "label": "Premium",
+    "used": true,
+    "used_by": 6231553742,
+    "used_at": 1784976215.3690977,
+    "created_at": 1784976116.8848507
+  },
+  "Rohit-R31X-NM4P-0DLN": {
+    "plan": "premium",
+    "duration_h": 0,
+    "label": "Premium",
+    "used": false,
+    "used_by": null,
+    "used_at": null,
+    "created_at": 1785010624.053568
+  },
+  "Rohit-2ROU-P056-SZ63": {
+    "plan": "premium",
+    "duration_h": 0,
+    "label": "Premium",
+    "used": true,
+    "used_by": 8032246466,
+    "used_at": 1785010786.1483166,
+    "created_at": 1785010636.0828362
+  }
+}

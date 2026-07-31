@@ -1,0 +1,6 @@
+{
+  "checker_api_urls": [
+    "https://shopiapi-kszg-kappa.vercel.app/autoshopify",
+    "http://104.207.92.50:8000/autoshopify"
+  ]
+}
